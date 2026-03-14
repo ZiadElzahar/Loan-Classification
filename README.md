@@ -449,9 +449,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 For questions, suggestions, or collaborations:
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub](https://github.com/your-username)
+- **Email:** ziad.elzahar05@gmail.com
+- **LinkedIn:** [Your Profile](www.linkedin.com/in/ziad-elzahar)
+- **GitHub:** [Your GitHub](https://github.com/ZiadElzahar)
 
 ---
 
@@ -459,7 +459,6 @@ For questions, suggestions, or collaborations:
 
 ### ⭐ If you found this project helpful, please give it a star!
 
-**Made with ❤️ using Python & Machine Learning**
 
 [🔝 Back to Top](#-bank-loan-classification-project)
 
