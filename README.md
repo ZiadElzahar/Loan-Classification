@@ -450,10 +450,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 For questions, suggestions, or collaborations:
 
 - **Email:** ziad.elzahar05@gmail.com
-- **LinkedIn:** [Your Profile](www.linkedin.com/in/ziad-elzahar)
-- **GitHub:** [Your GitHub](https://github.com/ZiadElzahar)
+- **LinkedIn:** [Ziad Elzahar](www.linkedin.com/in/ziad-elzahar)
 
----
 
 <div align="center">
 
