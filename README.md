@@ -27,7 +27,6 @@
 - [⚙️ Methodology](#️-methodology)
 - [🤖 Machine Learning Models](#-machine-learning-models)
 - [📈 Results & Performance](#-results--performance)
-- [📁 Project Structure](#-project-structure)
 - [🚀 Usage](#-usage)
 - [📊 Key Findings](#-key-findings)
 - [🔮 Future Improvements](#-future-improvements)
