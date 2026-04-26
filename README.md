@@ -287,26 +287,7 @@ Actual  No      [TN]    [FP]
 - **Precision:** Accuracy of positive predictions
 - **F1-Score:** Harmonic mean of precision and recall
 
----
 
-## 📁 Project Structure
-
-```
-Loan_Classification/
-├── Loan_classification.ipynb      # Main Jupyter Notebook
-├── requirements.txt               # Python dependencies
-├── README.md                      # This file
-├── data/
-│   └── bank_marketing.csv        # Dataset (if stored locally)
-├── notebooks/
-│   └── exploratory_analysis.ipynb # EDA Notebook (optional)
-├── models/
-│   └── saved_models/             # Trained models (optional)
-└── results/
-    └── performance_metrics.csv   # Model results (optional)
-```
-
----
 
 ## 🚀 Usage
 
@@ -400,7 +381,7 @@ df = pd.read_csv('your_dataset.csv')
 
 | Contributor | Role | Contact |
 |-------------|------|---------|
-| **Project Author** | ML Engineer, Data Analysis | [Email](mailto:your-email@example.com) |
+| **Project Author** | ML Engineer, Data Analysis | [Email](mailto:ziad.elzahar05@gmail.com) |
 
 ### Contributing Guidelines
 
